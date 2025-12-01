@@ -1,11 +1,76 @@
+# # bin/
+# # obj/
+# # *.exe
+# # *.dll
+# # *.pdb
+# # *.cache
+# # *.json
+# # *.log
+# # *.db
+# # *.lock.json
+# # *.staticwebassets.*
+# # # Build Folders
+# # bin/
+# # obj/
+
+# # # User-specific files
+# # *.user
+# # *.suo
+# # *.userosscache
+# # *.sln.docstates
+
+# # # Visual Studio files
+# # .vs/
+
+# # # Logs
+# # *.log
+
+# # # Package directories
+# # packages/
+# # *.nupkg
+
+# # # Dotnet Core
+# # project.lock.json
+# # project.fragment.lock.json
+# # artifacts/
+
+# # # EF Migrations
+# # Efmigrationshistory.cs
+
+# # # appsettings sensitive
+# # appsettings*.json
+
+# # # Node/npm
+# # node_modules/
+# # package-lock.json
+
+# # # Others
+# # *.db
+# # *.dll
+# # *.exe
+# # *.pdb
+# # Node modules
+# node_modules/
+
+# # Environment files
+# .env
+
+# # Build/output directories (אם יש)
+# dist/
+# build/
+
+# # Logs
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+
+# # OS files
+# .DS_Store
+# Thumbs.db
 bin/
 obj/
-*.exe
 *.dll
+*.exe
 *.pdb
 *.cache
 *.json
-*.log
-*.db
-*.lock.json
-*.staticwebassets.*
