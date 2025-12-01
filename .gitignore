@@ -1,0 +1,11 @@
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.json
+*.log
+*.db
+*.lock.json
+*.staticwebassets.*
